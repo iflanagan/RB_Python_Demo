@@ -57,7 +57,7 @@ ROLLBAR = {
     'environment': 'production', 
     'branch': 'master',
     'root': '/Users/ianflanagan/Workspace/Demos/PythonDemo/django-demo', # e.g. /Users/ivan/CodeTemp/django-demo/
-    'code_version': 'code_version',  # A string describing the current code revision/version (i.e. a git sha). Max 40 characters.
+    'code_version': '4d799fbc41c6f51ddda1a299c8b464c88181fb7f',  # A string describing the current code revision/version (i.e. a git sha). Max 40 characters.
 }
 
 ROOT_URLCONF = 'demo.urls'
